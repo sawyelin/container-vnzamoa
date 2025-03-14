@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sawyelin",
+  "repo": "container-vnzamoa",
+  "name": "sawyelin",
+  "email": "mszserver.online@gmail.com",
+}
